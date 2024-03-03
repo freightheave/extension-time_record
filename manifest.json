@@ -1,0 +1,10 @@
+{
+    "name": "chill",
+    "author": "Roshan Komaravolu",
+    "version": "0.1-beta",
+    "manifest_version": 3,
+    "description": "Timeout webpage afer specified amount of time for the day.",
+    "icons": {
+        "128": "icons/icons128x128.png"
+    }
+}
