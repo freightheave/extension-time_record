@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "description": "Timeout webpage afer specified amount of time for the day.",
     "permissions": [
-        "activeTab",
+        "tabs",
         "storage"
     ],
     "background": {
