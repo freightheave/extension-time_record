@@ -9,9 +9,14 @@
         "storage"
     ],
     "background": {
-        "service_worker": "src.js",
-        "type": "module"
+        "service_worker": "src.js"
       },
+    "host_permissions": [
+        "http://www.twitch.tv/*",
+        "https://www.twitch.tv/*",
+        "https://www.reddit.com/*",
+        "http://www.reddit.com/*"
+      ],
     "icons": {
         "128": "icons/icon128x128.png"
     } 
